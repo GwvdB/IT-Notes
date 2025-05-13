@@ -1,0 +1,1 @@
+Data search techniques help retrieve specific information from collections. Common search algorithms include **linear search** and **binary search**.

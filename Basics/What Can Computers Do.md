@@ -1,0 +1,3 @@
+Computers are designed to perform calculations, store and retrieve data, interact with users, and communicate with other devices. They follow a precise sequence of commands, making them capable of running complex applications, processing data, and automating tasks.
+
+Computers can do basic maths such as addition, subtraction, multiplication, division and [[modulus]]. This however can be done with [[Strings]] (See [[Concatenation]]) as well as other [[What are Variables|variables]].

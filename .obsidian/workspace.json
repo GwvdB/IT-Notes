@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "f9c7937b482a60ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "041bcfc809246c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5ba442d03b6b38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58a4169b3e815c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "41bc802c27e54b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0c75db9b1348d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8d06b73965fd57ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ab881c9947a5aa7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca4b5a29c0d77cab",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fedae4e8a2136ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e131d60fd555cc41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5886eec9f3ce50e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "435c7cd90929032e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d704c24465460c1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d5ba442d03b6b38",
+  "lastOpenFiles": [
+    "2025-05-13.md",
+    "Untitled.canvas",
+    "Linux/Updating WiFi.md",
+    "Linux/Adding WiFi.md",
+    "Linux/Command Guides/ls.md",
+    "Linux/Command Guides/ln.md",
+    "AWS/Six Advantages of the Cloud.md",
+    "AWS/AWS CCP Exam Guide.md",
+    "Git/Git Commands.md",
+    "Git/Git Branching and Merging.md",
+    "Git/Git and GitHub Complete Guide.md",
+    "Basics/Debugging Code.md",
+    "Basics/What are Errors.md",
+    "Basics/What are Loops.md",
+    "Basics/What are Arrays.md",
+    "Basics/Conditional Statements.md",
+    "Basics/How to Manipulate Variables.md",
+    "AWS/Essential AWS Services.md",
+    "AWS",
+    "Basics/What are Variables.md",
+    "Terminology/Characters.md",
+    "Terminology/Doubles.md",
+    "Terminology/Floats.md",
+    "Terminology/Booleans.md",
+    "Terminology/Integer.md",
+    "Basics/What Can Computers Do.md",
+    "Terminology/Concatenation.md",
+    "Tags",
+    "Linux/Command Guides",
+    "Setting Up SSH Keys",
+    "SQLs",
+    "Postman",
+    "Terminology",
+    "Syntaxes",
+    "Docker",
+    "Basics"
+  ]
+}
